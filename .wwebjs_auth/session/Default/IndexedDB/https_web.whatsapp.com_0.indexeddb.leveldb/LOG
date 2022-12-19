@@ -1,0 +1,15 @@
+2022/12/19-14:47:56.952 eb4 Reusing MANIFEST C:\Users\iqbal\OneDrive\Desktop\Gabut\BOT WA\openai-\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/19-14:47:56.967 eb4 Recovering log #177
+2022/12/19-14:47:57.444 eb4 Reusing old log C:\Users\iqbal\OneDrive\Desktop\Gabut\BOT WA\openai-\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000177.log 
+2022/12/19-14:48:21.898 2980 Level-0 table #187: started
+2022/12/19-14:48:21.994 2980 Level-0 table #187: 1270906 bytes OK
+2022/12/19-14:48:21.996 2980 Delete type=0 #177
+2022/12/19-14:48:23.537 318c Compacting 1@1 + 5@2 files
+2022/12/19-14:48:24.049 318c Generated table #188@1: 28589 keys, 2256589 bytes
+2022/12/19-14:48:24.295 318c Generated table #189@1: 31960 keys, 2255609 bytes
+2022/12/19-14:48:24.397 318c Generated table #190@1: 2999 keys, 2162643 bytes
+2022/12/19-14:48:24.550 318c Generated table #191@1: 15930 keys, 2212284 bytes
+2022/12/19-14:48:24.732 318c Generated table #192@1: 43187 keys, 2212112 bytes
+2022/12/19-14:48:24.761 318c Generated table #193@1: 12933 keys, 269236 bytes
+2022/12/19-14:48:24.761 318c Compacted 1@1 + 5@2 files => 11368473 bytes
+2022/12/19-14:48:24.762 318c compacted to: files[ 0 0 7 0 0 0 0 ]
